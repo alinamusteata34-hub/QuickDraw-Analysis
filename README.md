@@ -19,3 +19,7 @@ Source: Google Quick Draw Dataset
 
 ## Author
 Alina Musteata
+
+## Results
+
+![Quick Draw Chart](quickdraw_chart.png)
