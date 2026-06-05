@@ -8,7 +8,9 @@ The goal was to compare the number of drawings available for several categories 
 
 ## Dataset
 
-Source: Google Quick Draw Dataset
+Source: [Google Quick, Draw! Dataset](https://quickdraw.withgoogle.com/data)
+
+The Quick, Draw! dataset contains millions of drawings collected from users around the world. This project analyzes a small subset of categories from the dataset.
 
 Categories analyzed:
 
